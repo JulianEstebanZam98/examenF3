@@ -10,4 +10,4 @@ En cada uno de los componentes está detallado su funcionamiento y las instrucci
 
 Aquí pueden ver una demo del funcionamiento de la aplicación.
 
-![demoReactFE3.gif](https://raw.githubusercontent.com/Frontend-III/entregable-frontend-3-junio22/main/demoReactFE3.gif)
+![demoReactFE3.gif](https://raw.githubusercontent.com/Frontend-III/examen-Frontend-3-Enero-2023/main/demoReactFE3.gif)
